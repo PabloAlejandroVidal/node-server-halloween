@@ -1,0 +1,26 @@
+{
+  "monsters": [
+    {
+      "id": 2,
+      "nombre": "Pochita",
+      "tipo": "bruja",
+      "alias": "Motocierra",
+      "miedo": "100",
+      "defensa": "plata",
+      "poderes": {
+        "volador": false,
+        "inmortalidad": true,
+        "invisibilidad": false,
+        "supervelocidad": true
+      }
+    },
+    {
+      "nombre": "Kyubey",
+      "alias": "Incubator",
+      "defensa": "pocion",
+      "miedo": 150,
+      "tipo": "fantasma",
+      "id": 3
+    }
+  ]
+}
